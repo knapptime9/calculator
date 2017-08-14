@@ -1,0 +1,28 @@
+*{
+  border: solid black 1px;
+  border-collapse: collapse;
+  font-size: 50px;
+  padding: 35px;
+  background: green;
+}
+
+
+table{
+  background: green;
+  color: white;
+  width: 55%;
+  height: 400px;
+  text-align: center;
+  font-size: 30px;
+  margin: 0 auto;
+  border: black 1px solid;
+}
+
+button{
+  background: green;
+  color: white;
+  border:black;
+  margin:0;
+  border-radius: 1px;
+  font-weight: bold;
+}
